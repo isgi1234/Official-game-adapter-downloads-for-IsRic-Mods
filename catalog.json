@@ -47,15 +47,6 @@
       "size": 2262
     },
     {
-      "key": "people-playground",
-      "appId": "1118200",
-      "version": "0.2.0-beta",
-      "available": true,
-      "downloadUrl": "https://raw.githubusercontent.com/isgi1234/Official-game-adapter-downloads-for-IsRic-Mods/main/packages/people-playground-0.2.0-beta.zip",
-      "sha256": "2C758F1A93DB99E3D8E6EC73C7AD464C13139A50A0BB990ABE6C1F43867A6699",
-      "size": 3582
-    },
-    {
       "key": "tabs",
       "appId": "508440",
       "version": "0.2.0-beta",
