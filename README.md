@@ -1,0 +1,1 @@
+# Official-game-adapter-downloads-for-IsRic-Mods
