@@ -4,91 +4,91 @@
     {
       "key": "repo",
       "appId": "3241660",
-      "version": "0.1.0-beta",
+      "version": "0.2.0-beta",
       "available": true,
-      "downloadUrl": "https://raw.githubusercontent.com/isgi1234/Official-game-adapter-downloads-for-IsRic-Mods/main/packages/repo-0.1.0-beta.zip",
-      "sha256": "3C279C3A65739F9332E606C2CDCD94B72D6E89FE436FE4417E9430753F2292E1",
-      "size": 4961
+      "downloadUrl": "https://raw.githubusercontent.com/isgi1234/Official-game-adapter-downloads-for-IsRic-Mods/main/packages/repo-0.2.0-beta.zip",
+      "sha256": "9E7A616E218D7079E27216A9CB54598BDD5692FB9531CD10BE75BA640EEB9E49",
+      "size": 6071
     },
     {
       "key": "lethal-company",
       "appId": "1966720",
-      "version": "0.1.0-beta",
+      "version": "0.2.0-beta",
       "available": true,
-      "downloadUrl": "https://raw.githubusercontent.com/isgi1234/Official-game-adapter-downloads-for-IsRic-Mods/main/packages/lethal-company-0.1.0-beta.zip",
-      "sha256": "7D1B3F515108E150D8AE97CC6D8A1649B459F8FA0355E80CB6D47EC748B662D2",
-      "size": 4971
+      "downloadUrl": "https://raw.githubusercontent.com/isgi1234/Official-game-adapter-downloads-for-IsRic-Mods/main/packages/lethal-company-0.2.0-beta.zip",
+      "sha256": "3E89EC42271329A1D227015BEF44E6FEB29313D98B0D31E15AFF021407E1BC33",
+      "size": 6078
     },
     {
       "key": "content-warning",
       "appId": "2881650",
-      "version": "0.1.0-beta",
+      "version": "0.2.0-beta",
       "available": true,
-      "downloadUrl": "https://raw.githubusercontent.com/isgi1234/Official-game-adapter-downloads-for-IsRic-Mods/main/packages/content-warning-0.1.0-beta.zip",
-      "sha256": "D19DAD8E88BF5DC091C8CEC0E3B2CE6A4BE9244225C9C07B6F795C652188010B",
-      "size": 4969
+      "downloadUrl": "https://raw.githubusercontent.com/isgi1234/Official-game-adapter-downloads-for-IsRic-Mods/main/packages/content-warning-0.2.0-beta.zip",
+      "sha256": "D7F79EB2951AEDDB3B2004D092E124D9BBA7066D935728404B2C9922BF61B19B",
+      "size": 6078
     },
     {
       "key": "muck",
       "appId": "1625450",
-      "version": "0.1.0-beta",
+      "version": "0.2.0-beta",
       "available": true,
-      "downloadUrl": "https://raw.githubusercontent.com/isgi1234/Official-game-adapter-downloads-for-IsRic-Mods/main/packages/muck-0.1.0-beta.zip",
-      "sha256": "D139CB163BE6E3608729E10568C51D075141C75CD463EE302362880876C5C22F",
-      "size": 4964
+      "downloadUrl": "https://raw.githubusercontent.com/isgi1234/Official-game-adapter-downloads-for-IsRic-Mods/main/packages/muck-0.2.0-beta.zip",
+      "sha256": "11ADDA93605B053C07838A0B13F64B52342EBA2EF1110653BDF7B09E081A7CE0",
+      "size": 6071
     },
     {
       "key": "teardown",
       "appId": "1167630",
-      "version": "0.1.0-beta",
+      "version": "0.2.0-beta",
       "available": true,
-      "downloadUrl": "https://raw.githubusercontent.com/isgi1234/Official-game-adapter-downloads-for-IsRic-Mods/main/packages/teardown-0.1.0-beta.zip",
-      "sha256": "08D61B8A2EEC10B1BEA0C6B536E89423A4D5A3D8B6382F03D4585394F07793B0",
-      "size": 2268
+      "downloadUrl": "https://raw.githubusercontent.com/isgi1234/Official-game-adapter-downloads-for-IsRic-Mods/main/packages/teardown-0.2.0-beta.zip",
+      "sha256": "156BF14581B616DC1EF09952EA38CF58AD3E42C0FAF0F8F2C317CD7183AC06F8",
+      "size": 2262
     },
     {
       "key": "people-playground",
       "appId": "1118200",
-      "version": "0.1.0-beta",
+      "version": "0.2.0-beta",
       "available": true,
-      "downloadUrl": "https://raw.githubusercontent.com/isgi1234/Official-game-adapter-downloads-for-IsRic-Mods/main/packages/people-playground-0.1.0-beta.zip",
-      "sha256": "99C69E6285EE761E6F9348643F4B5C40FF3E4E0C843AFCE05A088DAF9102F981",
-      "size": 2825
+      "downloadUrl": "https://raw.githubusercontent.com/isgi1234/Official-game-adapter-downloads-for-IsRic-Mods/main/packages/people-playground-0.2.0-beta.zip",
+      "sha256": "2C758F1A93DB99E3D8E6EC73C7AD464C13139A50A0BB990ABE6C1F43867A6699",
+      "size": 3582
     },
     {
       "key": "tabs",
       "appId": "508440",
-      "version": "0.1.0-beta",
+      "version": "0.2.0-beta",
       "available": true,
-      "downloadUrl": "https://raw.githubusercontent.com/isgi1234/Official-game-adapter-downloads-for-IsRic-Mods/main/packages/tabs-0.1.0-beta.zip",
-      "sha256": "E3FF16565BF2A7336C82D132D312264DA48933DA25211FE66EE2E922CF053F06",
-      "size": 4959
+      "downloadUrl": "https://raw.githubusercontent.com/isgi1234/Official-game-adapter-downloads-for-IsRic-Mods/main/packages/tabs-0.2.0-beta.zip",
+      "sha256": "2796A73FD105B660419094A1EC941393DFDB12645C56D9A0BA48D330FFBAD030",
+      "size": 6070
     },
     {
       "key": "brick-rigs",
       "appId": "552100",
-      "version": "0.1.0-beta",
+      "version": "0.2.0-beta",
       "available": true,
-      "downloadUrl": "https://raw.githubusercontent.com/isgi1234/Official-game-adapter-downloads-for-IsRic-Mods/main/packages/brick-rigs-0.1.0-beta.zip",
-      "sha256": "D60D7B53434CAA5F7DA17CC1E99F417803038A5C1DC73FA6DD2BD1FEDE4C1B2A",
-      "size": 1147
+      "downloadUrl": "https://raw.githubusercontent.com/isgi1234/Official-game-adapter-downloads-for-IsRic-Mods/main/packages/brick-rigs-0.2.0-beta.zip",
+      "sha256": "A1CF4F58C19A41DA9907276AE52D5ADE859221DBCFF932FCB8EF1585EBB13983",
+      "size": 1145
     },
     {
       "key": "raft",
       "appId": "648800",
-      "version": "0.1.0-beta",
+      "version": "0.2.0-beta",
       "available": true,
-      "downloadUrl": "https://raw.githubusercontent.com/isgi1234/Official-game-adapter-downloads-for-IsRic-Mods/main/packages/raft-0.1.0-beta.zip",
-      "sha256": "194465D430DF2927896405CD2541D9FD83948A02A70A1836789254DB5F788E4F",
-      "size": 2770
+      "downloadUrl": "https://raw.githubusercontent.com/isgi1234/Official-game-adapter-downloads-for-IsRic-Mods/main/packages/raft-0.2.0-beta.zip",
+      "sha256": "12A300F0D14816864FA02136593EFDF7638F6E55B1950F57FFDE05ABEFD7BABC",
+      "size": 3232
     },
     {
       "key": "sons-of-the-forest",
       "appId": "1326470",
-      "version": "0.1.0-beta",
+      "version": "0.2.0-beta",
       "available": true,
-      "downloadUrl": "https://raw.githubusercontent.com/isgi1234/Official-game-adapter-downloads-for-IsRic-Mods/main/packages/sons-of-the-forest-0.1.0-beta.zip",
-      "sha256": "C13EBAB3F5D120B5C06E1A1055C6540EAF2528275FC50832CA69960006785C83",
+      "downloadUrl": "https://raw.githubusercontent.com/isgi1234/Official-game-adapter-downloads-for-IsRic-Mods/main/packages/sons-of-the-forest-0.2.0-beta.zip",
+      "sha256": "D4F2C8BCE6AE869C3E1601670DD16EE3C9B282587B199D76A7E5FC22E9AE392D",
       "size": 37839084
     }
   ]

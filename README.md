@@ -7,7 +7,10 @@ opens that game and selects **Initialize mod config**.
 ## Current status
 
 The catalog contains beta adapters for all ten launcher games. Every package has
-at least 12 controls (Teardown has 14), an exact byte size, and a SHA-256 hash.
+at least 12 controls, an exact byte size, and a SHA-256 hash. Version 0.2 adds
+launcher action buttons: People Playground has seven native catalog spawns,
+Raft has six inventory-item actions, and the shared Unity adapters can create
+and remove local physics objects.
 These are early compatibility builds: test them one game at a time and remove an
 adapter from the launcher if a game update makes it incompatible.
 
@@ -66,6 +69,11 @@ systems. Raft uses Raft Mod Loader source-mod format. Sons of the Forest include
 the official RedLoader 0.8.6 files in its on-demand package. Brick Rigs uses a
 reversible, clearly delimited Unreal Engine settings section rather than code
 injection.
+
+Action buttons use one-time command tokens in the local settings file. The game
+adapter consumes each token once, so reopening the game does not repeat an old
+spawn command. Spawn and inventory actions affect only the local/private game
+session; they are not remote administration features.
 
 The launcher records every installed file in `install-receipt.json`. Existing
 files are backed up, removal restores them, and removal stops if an installed
