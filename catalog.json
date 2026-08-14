@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "adapters": [
+    {
+      "key": "repo",
+      "appId": "3241660",
+      "version": "0.0.0",
+      "available": false,
+      "downloadUrl": "",
+      "sha256": "",
+      "size": 0
+    },
+    {
+      "key": "lethal-company",
+      "appId": "1966720",
+      "version": "0.0.0",
+      "available": false,
+      "downloadUrl": "",
+      "sha256": "",
+      "size": 0
+    },
+    {
+      "key": "content-warning",
+      "appId": "2881650",
+      "version": "0.0.0",
+      "available": false,
+      "downloadUrl": "",
+      "sha256": "",
+      "size": 0
+    },
+    {
+      "key": "muck",
+      "appId": "1625450",
+      "version": "0.0.0",
+      "available": false,
+      "downloadUrl": "",
+      "sha256": "",
+      "size": 0
+    },
+    {
+      "key": "teardown",
+      "appId": "1167630",
+      "version": "0.0.0",
+      "available": false,
+      "downloadUrl": "",
+      "sha256": "",
+      "size": 0
+    },
+    {
+      "key": "people-playground",
+      "appId": "1118200",
+      "version": "0.0.0",
+      "available": false,
+      "downloadUrl": "",
+      "sha256": "",
+      "size": 0
+    },
+    {
+      "key": "tabs",
+      "appId": "508440",
+      "version": "0.0.0",
+      "available": false,
+      "downloadUrl": "",
+      "sha256": "",
+      "size": 0
+    },
+    {
+      "key": "brick-rigs",
+      "appId": "552100",
+      "version": "0.0.0",
+      "available": false,
+      "downloadUrl": "",
+      "sha256": "",
+      "size": 0
+    },
+    {
+      "key": "raft",
+      "appId": "648800",
+      "version": "0.0.0",
+      "available": false,
+      "downloadUrl": "",
+      "sha256": "",
+      "size": 0
+    },
+    {
+      "key": "sons-of-the-forest",
+      "appId": "1326470",
+      "version": "0.0.0",
+      "available": false,
+      "downloadUrl": "",
+      "sha256": "",
+      "size": 0
+    }
+  ]
+}
