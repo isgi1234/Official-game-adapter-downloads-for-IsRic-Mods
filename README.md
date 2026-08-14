@@ -37,12 +37,27 @@ Example `adapter.json`:
 {
   "schemaVersion": 1,
   "key": "repo",
-  "name": "R.E.P.O. adapter",
+  "appId": "3241660",
   "version": "0.1.0",
-  "gameAppId": "3241660",
-  "entryAssembly": "IsRic.RepoBridge.dll"
+  "files": [
+    {
+      "source": "payload/IsRic.RepoBridge.dll",
+      "targetRoot": "game-mod",
+      "targetPath": "IsRic.RepoBridge.dll"
+    }
+  ]
 }
 ```
+
+Supported target roots are deliberately narrow:
+
+- `game-mod` installs only inside the game's dedicated IsRic mod/plugin folder.
+- `documents-mod` is accepted only for Teardown's built-in mod directory.
+- `appdata-mod` is accepted only for Raft Mod Loader's IsRic directory.
+
+The launcher records every installed file in `install-receipt.json`. Existing
+files are backed up, removal restores them, and removal stops if an installed
+file was edited afterward. Games must be closed during initialization/removal.
 
 Each adapter must be made for the named game and should expose only intentional,
 documented mod controls. Do not include anti-cheat bypasses, piracy tools, remote
