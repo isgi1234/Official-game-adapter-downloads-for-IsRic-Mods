@@ -7,9 +7,9 @@ opens that game and selects **Initialize mod config**.
 ## Current status
 
 The catalog contains beta adapters for all nine supported launcher games. Every package has
-at least 12 controls, an exact byte size, and a SHA-256 hash. Version 0.2 adds
-launcher action buttons: Raft has six inventory-item actions, and the shared Unity adapters can create
-and remove local physics objects.
+an exact byte size and a SHA-256 hash. Version 0.3 replaces the copied engine-control catalog
+with distinct per-game features. The manifest format now supports dropdown and text controls,
+and compatible games expose real inventory, item, enemy, actor, tool, or survival actions.
 These are early compatibility builds: test them one game at a time and remove an
 adapter from the launcher if a game update makes it incompatible.
 
@@ -71,8 +71,8 @@ injection.
 
 Action buttons use one-time command tokens in the local settings file. The game
 adapter consumes each token once, so reopening the game does not repeat an old
-spawn command. Spawn and inventory actions affect only the local/private game
-session; they are not remote administration features.
+spawn command. World-spawn actions are limited to hosts/private sessions where
+the game exposes that distinction; they are not remote administration features.
 
 The launcher records every installed file in `install-receipt.json`. Existing
 files are backed up, removal restores them, and removal stops if an installed
