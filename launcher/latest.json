@@ -1,0 +1,8 @@
+{
+  "schemaVersion": 1,
+  "version": "0.6.3",
+  "downloadUrl": "https://raw.githubusercontent.com/isgi1234/Official-game-adapter-downloads-for-IsRic-Mods/main/launcher/IsRic-Mods-0.6.3-Beta-Setup.exe",
+  "sha256": "28BC246D94780D2754663AB4AE6C492D71EE227B4895463AAE6C0066D18F9441",
+  "size": 665840,
+  "notes": "Adds launcher auto-updates, profiles for every supported game, independent sidebar expansion, and interface improvements."
+}
